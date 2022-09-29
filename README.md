@@ -3,6 +3,7 @@
 ## Installation
 
 Drag and drop zip file to your %userfolder%/mods folder. 
+
 Alternate install (to edit the flowgraph) is to drop all files except the zip directly in userfolder, merging contents.
 
 ## Mod Info
