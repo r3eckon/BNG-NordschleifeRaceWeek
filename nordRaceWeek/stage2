@@ -1,0 +1,6 @@
+model=scintilla
+config=nordRaceWeek/configs/nrw_scintilla.pc
+bronze=480000
+silver=450000
+gold=420000
+author=300000

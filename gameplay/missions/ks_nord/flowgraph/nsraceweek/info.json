@@ -1,0 +1,52 @@
+{
+  "additionalAttributes":{
+    "difficulty":"high",
+    "vehicle":"provided"
+  },
+  "author":"Revision3",
+  "careerSetup":{
+    "starsActive":{},
+    "defaultStarKeys":{},
+    "starOutroTexts":{},
+    "starRewards":{}
+  },
+  "customAdditionalAttributes":{},
+  "date":1664179433,
+  "description":"Persistent progression  time attack challenges on the Nord.\n\nProgress through various vehicles by completing the previous challenge.",
+  "grouping":{
+    "id":"",
+    "label":""
+  },
+  "isAvailableAsScenario":true,
+  "missionType":"flowgraph",
+  "missionTypeData":{},
+  "name":"Nordschleife Race Week",
+  "retryBehaviour":"infiniteRetries",
+  "setupModules":{
+    "timeOfDay":{
+      "enabled":false
+    }
+  },
+  "startCondition":{
+    "type":"always"
+  },
+  "startTrigger":{
+    "level":"ks_nord",
+    "pos":[
+      172.268219,
+      -902.5895996,
+      391.8495178
+    ],
+    "radius":3,
+    "rot":[
+      0.1104492098,
+      -0.1818006039,
+      0.8350806236,
+      0.5073361397
+    ],
+    "type":"coordinates"
+  },
+  "visibleCondition":{
+    "type":"always"
+  }
+}

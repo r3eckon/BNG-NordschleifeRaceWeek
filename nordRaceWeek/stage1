@@ -1,0 +1,6 @@
+model=vivace
+config=nordRaceWeek/configs/nrw_vivace.pc
+bronze=510000
+silver=480000
+gold=450000
+author=300000
